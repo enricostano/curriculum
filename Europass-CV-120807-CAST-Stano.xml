@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet href="http://europass.cedefop.europa.eu/xml/cv_es_ES.xsl" type="text/xsl"?>
-<europass:learnerinfo locale="es_ES" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:europass="http://europass.cedefop.europa.eu/Europass/V2.0" xsi:schemaLocation="http://europass.cedefop.europa.eu/Europass/V2.0 http://europass.cedefop.europa.eu/xml/EuropassSchema_V2.0.xsd">
+<europass:learnerinfo locale="it_IT" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:europass="http://europass.cedefop.europa.eu/Europass/V2.0" xsi:schemaLocation="http://europass.cedefop.europa.eu/Europass/V2.0 http://europass.cedefop.europa.eu/xml/EuropassSchema_V2.0.xsd">
 	<docinfo>
 		<issuedate>2012-07-25T15:25:20+02:00</issuedate>
 		<xsdversion>V2.0</xsdversion>
-		<comment>Automatically generated Europass CV</comment>
-	</docinfo>
+		<comment>Automatically generated Europass CV</comment></docinfo>
 	<prefs>
 		<field before="step1.firstName" name="step1.lastName"></field>
 		<field keep="true" name="step1.addressInfo"></field>
@@ -60,36 +59,11 @@
 		<field keep="true" name="step3List[1].company.name"></field>
 		<field keep="true" name="step3List[1].activities"></field>
 		<field keep="true" name="step3List[1].position.label"></field>
-		<field format="/text/long" name="step4List[6].period"></field>
-		<field format="/text/long" name="step4List[2].period"></field>
 		<field format="/text/long" name="step4List[1].period"></field>
-		<field format="" name="step4List[0].period"></field>
+		<field format="/text/long" name="step4List[3].period"></field>
+		<field format="/text/long" name="step4List[4].period"></field>
+		<field format="" name="step4List[6].period"></field>
 		<field keep="true" name="step4List"></field>
-		<field keep="false" name="step4List[6].level.label"></field>
-		<field keep="true" name="step4List[6].educationalOrg.addressInfo"></field>
-		<field keep="true" name="step4List[6].educationalOrg.name"></field>
-		<field keep="true" name="step4List[6].skills"></field>
-		<field keep="true" name="step4List[6].title"></field>
-		<field keep="true" name="step4List[5].level.label"></field>
-		<field keep="true" name="step4List[5].educationalOrg.addressInfo"></field>
-		<field keep="true" name="step4List[5].educationalOrg.name"></field>
-		<field keep="true" name="step4List[5].skills"></field>
-		<field keep="true" name="step4List[5].title"></field>
-		<field keep="true" name="step4List[4].level.label"></field>
-		<field keep="true" name="step4List[4].educationalOrg.addressInfo"></field>
-		<field keep="true" name="step4List[4].educationalOrg.name"></field>
-		<field keep="true" name="step4List[4].skills"></field>
-		<field keep="true" name="step4List[4].title"></field>
-		<field keep="true" name="step4List[3].level.label"></field>
-		<field keep="true" name="step4List[3].educationalOrg.addressInfo"></field>
-		<field keep="true" name="step4List[3].educationalOrg.name"></field>
-		<field keep="true" name="step4List[3].skills"></field>
-		<field keep="true" name="step4List[3].title"></field>
-		<field keep="false" name="step4List[2].level.label"></field>
-		<field keep="true" name="step4List[2].educationalOrg.addressInfo"></field>
-		<field keep="true" name="step4List[2].educationalOrg.name"></field>
-		<field keep="true" name="step4List[2].skills"></field>
-		<field keep="true" name="step4List[2].title"></field>
 		<field keep="false" name="step4List[1].level.label"></field>
 		<field keep="true" name="step4List[1].educationalOrg.addressInfo"></field>
 		<field keep="true" name="step4List[1].educationalOrg.name"></field>
@@ -100,7 +74,32 @@
 		<field keep="true" name="step4List[0].educationalOrg.name"></field>
 		<field keep="true" name="step4List[0].skills"></field>
 		<field keep="true" name="step4List[0].title"></field>
-		<field keep="false" name="step5.motherLanguages"></field>
+		<field keep="true" name="step4List[2].level.label"></field>
+		<field keep="true" name="step4List[2].educationalOrg.addressInfo"></field>
+		<field keep="true" name="step4List[2].educationalOrg.name"></field>
+		<field keep="true" name="step4List[2].skills"></field>
+		<field keep="true" name="step4List[2].title"></field>
+		<field keep="true" name="step4List[5].level.label"></field>
+		<field keep="true" name="step4List[5].educationalOrg.addressInfo"></field>
+		<field keep="true" name="step4List[5].educationalOrg.name"></field>
+		<field keep="true" name="step4List[5].skills"></field>
+		<field keep="true" name="step4List[5].title"></field>
+		<field keep="false" name="step4List[3].level.label"></field>
+		<field keep="true" name="step4List[3].educationalOrg.addressInfo"></field>
+		<field keep="true" name="step4List[3].educationalOrg.name"></field>
+		<field keep="true" name="step4List[3].skills"></field>
+		<field keep="true" name="step4List[3].title"></field>
+		<field keep="false" name="step4List[4].level.label"></field>
+		<field keep="true" name="step4List[4].educationalOrg.addressInfo"></field>
+		<field keep="true" name="step4List[4].educationalOrg.name"></field>
+		<field keep="true" name="step4List[4].skills"></field>
+		<field keep="true" name="step4List[4].title"></field>
+		<field keep="true" name="step4List[6].level.label"></field>
+		<field keep="true" name="step4List[6].educationalOrg.addressInfo"></field>
+		<field keep="true" name="step4List[6].educationalOrg.name"></field>
+		<field keep="true" name="step4List[6].skills"></field>
+		<field keep="true" name="step4List[6].title"></field>
+		<field keep="true" name="step5.motherLanguages"></field>
 		<field keep="true" name="step5.foreignLanguageList"></field>
 		<field keep="true" name="step5.foreignLanguageList[2]"></field>
 		<field keep="true" name="step5.foreignLanguageList[1]"></field>
@@ -114,8 +113,7 @@
 		<field keep="true" name="step6.drivingLicences"></field>
 		<field keep="false" name="step7.additionalInfo"></field>
 		<field keep="false" name="step7.annexes"></field>
-		<field keep="false" name="grid"></field>
-	</prefs>
+		<field keep="false" name="grid"></field></prefs>
 	<identification>
 		<firstname>Enrico</firstname>
 		<lastname>Stano</lastname>
@@ -126,39 +124,29 @@
 				<postalCode>08025</postalCode>
 				<country>
 					<code>ES</code>
-					<label>España</label>
-				</country>
-			</address>
+					<label>España</label></country></address>
 			<telephone></telephone>
 			<fax></fax>
 			<mobile>+34675465104</mobile>
-			<email>enricostn@gmail.com</email>
-		</contactinfo>
+			<email>enricostn@gmail.com</email></contactinfo>
 		<demographics>
 			<birthdate>1979-06-03</birthdate>
 			<gender>M</gender>
 			<nationality>
 				<code>IT</code>
-				<label>Italiana</label>
-			</nationality>
-		</demographics>
-	</identification>
+				<label>Italiana</label></nationality></demographics></identification>
 	<application>
-		<label></label>
-	</application>
+		<label></label></application>
 	<workexperiencelist>
 		<workexperience>
 			<period>
 				<from>
 					<year>2011</year>
 					<month>--09</month>
-					<day>---01</day>
-				</from>
-				<to>				</to>
-			</period>
+					<day>---01</day></from>
+				<to></to></period>
 			<position>
-				<label>Analista y desarrollador sistema de información</label>
-			</position>
+				<label>Analista y desarrollador sistema de información</label></position>
 			<activities>1. Análisis y diseño de la plataforma de comunicación y sistema de información Riaipe3.net
 2. Desarrollo y puesta en marcha de la plataforma Riaipe3.net
 3. Mantenimiento y actualización de la plataforma Riaipe3.net
@@ -171,31 +159,22 @@
 					<postalCode></postalCode>
 					<country>
 						<code>ES</code>
-						<label>España</label>
-					</country>
-				</address>
+						<label>España</label></country></address>
 				<sector>
 					<code>P</code>
-					<label>Educación</label>
-				</sector>
-			</employer>
-		</workexperience>
+					<label>Educación</label></sector></employer></workexperience>
 		<workexperience>
 			<period>
 				<from>
 					<year>2011</year>
 					<month>--09</month>
-					<day>---01</day>
-				</from>
+					<day>---01</day></from>
 				<to>
 					<year>2012</year>
 					<month>--08</month>
-					<day>---31</day>
-				</to>
-			</period>
+					<day>---31</day></to></period>
 			<position>
-				<label>Becario de colaboración</label>
-			</position>
+				<label>Becario de colaboración</label></position>
 			<activities>1. Soporte logístico, administrativo y académico al proyecto Open Project for Mobile Learning (RecerCaixa)
 2. Soporte logístico, técnico y administrativo al Grupo de Recerca LMI</activities>
 			<employer>
@@ -206,29 +185,24 @@
 					<postalCode></postalCode>
 					<country>
 						<code>ES</code>
-						<label>España</label>
-					</country>
-				</address>
+						<label>España</label></country></address>
 				<sector>
 					<code>P</code>
-					<label>Educación</label>
-				</sector>
-			</employer>
-		</workexperience>
+					<label>Educación</label></sector></employer></workexperience>
 		<workexperience>
 			<period>
 				<from>
 					<year>2010</year>
 					<month>--03</month>
-					<day>---01</day>
-				</from>
+					<day>---01</day></from>
 				<to>
 					<year>2010</year>
 					<month>--06</month>
-					<day>---30</day>
-				</to></period>
+					<day>---30</day></to>
+			</period>
 			<position>
-				<label>Coordinación del proyecto de dinamización socio-cultural</label></position>
+				<label>Coordinación del proyecto de dinamización socio-cultural</label>
+			</position>
 			<activities>Análisis del entorno y redacción del proyecto de implicación de las entidades asociativas locales en el equipamiento cultural Livello UndiciOttavi</activities>
 			<employer>
 				<name>11/8 Records s.a.s.</name>
@@ -238,24 +212,29 @@
 					<postalCode></postalCode>
 					<country>
 						<code>IT</code>
-						<label>Italia</label></country></address>
+						<label>Italia</label>
+					</country>
+				</address>
 				<sector>
 					<code>R</code>
-					<label>Actividades artísticas, recreativas y de entretenimiento</label></sector></employer></workexperience>
+					<label>Actividades artísticas, recreativas y de entretenimiento</label>
+				</sector>
+			</employer>
+		</workexperience>
 		<workexperience>
 			<period>
 				<from>
 					<year>2007</year>
 					<month>--07</month>
-					<day>---16</day>
-				</from>
+					<day>---16</day></from>
 				<to>
 					<year>2008</year>
 					<month>--08</month>
-					<day>---31</day>
-				</to></period>
+					<day>---31</day></to>
+			</period>
 			<position>
-				<label>Analista de sistemas de información y coordinador editorial</label></position>
+				<label>Analista de sistemas de información y coordinador editorial</label>
+			</position>
 			<activities>1. Desarrollo de técnicas de gestión del material informativo relacionado con los temas de los Informes Anuales
 2. Análisis funcional para el desarrollo de la nueva base de datos de la empresa
 3. Búsqueda de material informativo para la redacción y el desarrollo editorial de los Informes Anuales
@@ -269,23 +248,28 @@
 					<postalCode></postalCode>
 					<country>
 						<code>IT</code>
-						<label>Italia</label></country></address>
+						<label>Italia</label>
+					</country>
+				</address>
 				<sector>
-					<label>Editorial</label></sector></employer></workexperience>
+					<label>Editorial</label>
+				</sector>
+			</employer>
+		</workexperience>
 		<workexperience>
 			<period>
 				<from>
 					<year>2005</year>
 					<month>--01</month>
-					<day>---01</day>
-				</from>
+					<day>---01</day></from>
 				<to>
 					<year>2007</year>
 					<month>--03</month>
-					<day>---31</day>
-				</to></period>
+					<day>---31</day></to>
+			</period>
 			<position>
-				<label>Sistemas de información y soporte comercial</label></position>
+				<label>Sistemas de información y soporte comercial</label>
+			</position>
 			<activities>1. Implantación del software de CRM (Customer Relationship Management) para el tracking de los contactos comerciales
 2. Desarrollo y gestión de la base de datos de almacén y de producción y del sistema de información intranet
 3. Atención a clientes y soporte al desarrollo de políticas comerciales
@@ -298,21 +282,30 @@
 					<postalCode></postalCode>
 					<country>
 						<code>IT</code>
-						<label>Italia</label></country></address>
+						<label>Italia</label>
+					</country>
+				</address>
 				<sector>
-					<label>Desarrollo software para realidad virtual y aumentada</label></sector></employer></workexperience>
+					<label>Desarrollo software para realidad virtual y aumentada</label>
+				</sector>
+			</employer>
+		</workexperience>
 		<workexperience>
 			<period>
 				<from>
 					<year>2001</year>
 					<month>--01</month>
-					<day>---01</day></from>
+					<day>---01</day>
+				</from>
 				<to>
 					<year>2004</year>
 					<month>--12</month>
-					<day>---31</day></to></period>
+					<day>---31</day>
+				</to>
+			</period>
 			<position>
-				<label>Responsable comercial y técnico</label></position>
+				<label>Responsable comercial y técnico</label>
+			</position>
 			<activities>1. Estudio y realización de las políticas comerciales
 2. Gestión comercial y técnica de los clientes
 3. Actividad de apoyo a la administración</activities>
@@ -324,25 +317,26 @@
 					<postalCode>74024</postalCode>
 					<country>
 						<code>IT</code>
-						<label>Italia</label></country></address>
+						<label>Italia</label>
+					</country>
+				</address>
 				<sector>
-					<label>Comercio al por menor de artículos para oficina y copisteria</label></sector></employer></workexperience>
+					<label>Comercio al por menor de artículos para oficina y copisteria</label>
+				</sector>
+			</employer>
+		</workexperience>
 		<workexperience>
 			<period>
 				<from>
 					<year>2011</year>
 					<month>--04</month>
-					<day>---26</day>
-				</from>
+					<day>---26</day></from>
 				<to>
 					<year>2011</year>
 					<month>--04</month>
-					<day>---27</day>
-				</to>
-			</period>
+					<day>---27</day></to></period>
 			<position>
-				<label>Organizador</label>
-			</position>
+				<label>Organizador</label></position>
 			<activities>Organización y soporte logístico en la jornada "Arte como medio de transformación social"</activities>
 			<employer>
 				<name>Facultat de Pedagogia / Universitat de Barcelona</name>
@@ -352,152 +346,20 @@
 					<postalCode></postalCode>
 					<country>
 						<code>ES</code>
-						<label>España</label>
-					</country>
-				</address>
+						<label>España</label></country></address>
 				<sector>
 					<code>P</code>
-					<label>Educación</label>
-				</sector>
-			</employer>
-		</workexperience></workexperiencelist>
+					<label>Educación</label></sector></employer></workexperience>
+	</workexperiencelist>
 	<educationlist>
-		<education>
-			<period>
-				<from>
-					<year>1993</year>
-				</from>
-				<to>
-					<year>1999</year>
-				</to></period>
-			<title>Contable Programador</title>
-			<skills>Contabilidad
-Informática para la gestión</skills>
-			<organisation>
-				<name>Instituto Técnico Comercial "Giovanni Calò"</name>
-				<address>
-					<addressLine></addressLine>
-					<municipality>Francavilla Fontana (BR)</municipality>
-					<postalCode></postalCode>
-					<country>
-						<code>IT</code>
-						<label>Italia</label></country></address>
-				<type>Instituto Técnico Comercial</type></organisation>
-			<level>
-				<label>70/100</label></level>
-			<educationalfield>
-				<label>Técnicas contables, comerciales e informáticas</label></educationalfield></education>
-		<education>
-			<period>
-				<from>
-					<year>2007</year>
-					<month>--06</month>
-					<day>---01</day></from>
-				<to>
-					<year>2007</year>
-					<month>--06</month>
-					<day>---30</day></to></period>
-			<title>Seminario universitario en gestión de las Fundaciones Líricas</title>
-			<skills>Balance y gestión de las Fundaciones Líricas
-Fundación Teatro Regio de Turín</skills>
-			<organisation>
-				<name>Università degli Studi di Torino</name>
-				<address>
-					<addressLine></addressLine>
-					<municipality>Turin</municipality>
-					<postalCode></postalCode>
-					<country>
-						<code>IT</code>
-						<label>Italia</label></country></address>
-				<type>Universidad</type></organisation>
-			<level>
-				<label></label></level>
-			<educationalfield>
-				<label>Gestión cultural</label></educationalfield></education>
-		<education>
-			<period>
-				<from>
-					<year>2008</year>
-					<month>--10</month>
-					<day>---01</day></from>
-				<to>
-					<year>2008</year>
-					<month>--10</month>
-					<day>---31</day></to></period>
-			<title>Curso SAP General</title>
-			<skills>SAP General</skills>
-			<organisation>
-				<name>Università degli Studi di Torino</name>
-				<address>
-					<addressLine></addressLine>
-					<municipality>Turin</municipality>
-					<postalCode></postalCode>
-					<country>
-						<code>IT</code>
-						<label>Italia</label></country></address>
-				<type>Universidad</type></organisation>
-			<level>
-				<label></label></level>
-			<educationalfield>
-				<label>Informatica aplicada a la empresa</label></educationalfield></education>
-		<education>
-			<period>
-				<from>
-					<year>2004</year>
-				</from>
-				<to>
-					<year>2008</year>
-				</to></period>
-			<title>Diplomadura en Ciencias Empresariales especialización en Sistemas de Información (180 ECTS)</title>
-			<skills>1. Sistemas de información empresariales
-2. Estadística
-3. Economía de la cultura</skills>
-			<organisation>
-				<name>Università degli Studi di Torino</name>
-				<address>
-					<addressLine></addressLine>
-					<municipality>Turin</municipality>
-					<postalCode></postalCode>
-					<country>
-						<code>IT</code>
-						<label>Italia</label></country></address>
-				<type>Universidad</type></organisation>
-			<level>
-				<label>96/110</label></level>
-			<educationalfield>
-				<label>Dirección y administración de empresas</label></educationalfield></education>
-		<education>
-			<period>
-				<from>
-					<year>2008</year></from>
-				<to>
-					<year>2010</year></to></period>
-			<title>Master Oficiál en Gestión Cultural (90 ECTS)</title>
-			<skills>1. Gestión cultural
-2. Participación y animación socio-cultural
-3. Economía de la cultura</skills>
-			<organisation>
-				<name>Universitat de Barcelona</name>
-				<address>
-					<addressLine></addressLine>
-					<municipality>Barcelona</municipality>
-					<postalCode></postalCode>
-					<country>
-						<code>ES</code>
-						<label>España</label></country></address>
-				<type>Universidad</type></organisation>
-			<level>
-				<label>9/10</label></level>
-			<educationalfield>
-				<label>Gestión cultural</label></educationalfield></education>
 		<education>
 			<period>
 				<from>
 					<year>2011</year>
 					<month>--09</month>
-					<day>---01</day>
-				</from>
-				<to></to></period>
+					<day>---01</day></from>
+				<to></to>
+			</period>
 			<title>Máster Oficial en Enseñanza y Aprendizaje en Entornos Digitales (60 ECTS)</title>
 			<skills>1. Diseño pedagógico aplicado a la educación en red
 2. Producción de contenidos digitales
@@ -510,25 +372,28 @@ Fundación Teatro Regio de Turín</skills>
 					<postalCode></postalCode>
 					<country>
 						<code>ES</code>
-						<label>España</label></country></address>
-				<type>Universidad</type></organisation>
+						<label>España</label>
+					</country>
+				</address>
+				<type>Universidad</type>
+			</organisation>
 			<level>
-				<label>en curso</label></level>
+				<label>en curso</label>
+			</level>
 			<educationalfield>
-				<label>Tecnologias educativas</label></educationalfield></education>
+				<label>Tecnologias educativas</label>
+			</educationalfield>
+		</education>
 		<education>
 			<period>
 				<from>
 					<year>2011</year>
 					<month>--09</month>
-					<day>---21</day>
-				</from>
+					<day>---21</day></from>
 				<to>
 					<year>2011</year>
 					<month>--09</month>
-					<day>---23</day>
-				</to>
-			</period>
+					<day>---23</day></to></period>
 			<title>XV Congreso Nacional y I Internacional de Modelos de Investigación Educativa, "Investigación y educación en un mundo en red"</title>
 			<skills>Asistencia al congreso y presentación de la Comunicación "Multiculturalidad, lengua y cohesión social en tres institutos de Sant Boi de Llobregat: Análisis de redes sociales"</skills>
 			<organisation>
@@ -539,23 +404,181 @@ Fundación Teatro Regio de Turín</skills>
 					<postalCode></postalCode>
 					<country>
 						<code>ES</code>
+						<label>España</label></country></address>
+				<type>Congreso internacional</type></organisation>
+			<level>
+				<label></label></level>
+			<educationalfield>
+				<label>Tecnologia educativa y métodos de investigación</label></educationalfield></education>
+		<education>
+			<period>
+				<from>
+					<year>2008</year>
+				</from>
+				<to>
+					<year>2010</year>
+				</to>
+			</period>
+			<title>Master Oficiál en Gestión Cultural (90 ECTS)</title>
+			<skills>1. Gestión cultural
+2. Participación y animación socio-cultural
+3. Economía de la cultura</skills>
+			<organisation>
+				<name>Universitat de Barcelona</name>
+				<address>
+					<addressLine></addressLine>
+					<municipality>Barcelona</municipality>
+					<postalCode></postalCode>
+					<country>
+						<code>ES</code>
 						<label>España</label>
 					</country>
 				</address>
-				<type>Congreso internacional</type>
+				<type>Universidad</type>
+			</organisation>
+			<level>
+				<label>9/10</label>
+			</level>
+			<educationalfield>
+				<label>Gestión cultural</label>
+			</educationalfield>
+		</education>
+		<education>
+			<period>
+				<from>
+					<year>2008</year>
+					<month>--10</month>
+					<day>---01</day>
+				</from>
+				<to>
+					<year>2008</year>
+					<month>--10</month>
+					<day>---31</day>
+				</to>
+			</period>
+			<title>Curso SAP General</title>
+			<skills>SAP General</skills>
+			<organisation>
+				<name>Università degli Studi di Torino</name>
+				<address>
+					<addressLine></addressLine>
+					<municipality>Turin</municipality>
+					<postalCode></postalCode>
+					<country>
+						<code>IT</code>
+						<label>Italia</label>
+					</country>
+				</address>
+				<type>Universidad</type>
 			</organisation>
 			<level>
 				<label></label>
 			</level>
 			<educationalfield>
-				<label>Tecnologia educativa y métodos de investigación</label>
+				<label>Informatica aplicada a la empresa</label>
+			</educationalfield>
+		</education>
+		<education>
+			<period>
+				<from>
+					<year>2007</year>
+					<month>--06</month>
+					<day>---01</day>
+				</from>
+				<to>
+					<year>2007</year>
+					<month>--06</month>
+					<day>---30</day>
+				</to>
+			</period>
+			<title>Seminario universitario en gestión de las Fundaciones Líricas</title>
+			<skills>Balance y gestión de las Fundaciones Líricas
+Fundación Teatro Regio de Turín</skills>
+			<organisation>
+				<name>Università degli Studi di Torino</name>
+				<address>
+					<addressLine></addressLine>
+					<municipality>Turin</municipality>
+					<postalCode></postalCode>
+					<country>
+						<code>IT</code>
+						<label>Italia</label>
+					</country>
+				</address>
+				<type>Universidad</type>
+			</organisation>
+			<level>
+				<label></label>
+			</level>
+			<educationalfield>
+				<label>Gestión cultural</label>
+			</educationalfield>
+		</education>
+		<education>
+			<period>
+				<from>
+					<year>2004</year></from>
+				<to>
+					<year>2008</year></to>
+			</period>
+			<title>Diplomadura en Ciencias Empresariales especialización en Sistemas de Información (180 ECTS)</title>
+			<skills>1. Sistemas de información empresariales
+2. Estadística
+3. Economía de la cultura</skills>
+			<organisation>
+				<name>Università degli Studi di Torino</name>
+				<address>
+					<addressLine></addressLine>
+					<municipality>Turin</municipality>
+					<postalCode></postalCode>
+					<country>
+						<code>IT</code>
+						<label>Italia</label>
+					</country>
+				</address>
+				<type>Universidad</type>
+			</organisation>
+			<level>
+				<label>96/110</label>
+			</level>
+			<educationalfield>
+				<label>Dirección y administración de empresas</label>
+			</educationalfield>
+		</education>
+		<education>
+			<period>
+				<from>
+					<year>1993</year></from>
+				<to>
+					<year>1999</year></to>
+			</period>
+			<title>Contable Programador</title>
+			<skills>Contabilidad
+Informática para la gestión</skills>
+			<organisation>
+				<name>Instituto Técnico Comercial "Giovanni Calò"</name>
+				<address>
+					<addressLine></addressLine>
+					<municipality>Francavilla Fontana (BR)</municipality>
+					<postalCode></postalCode>
+					<country>
+						<code>IT</code>
+						<label>Italia</label>
+					</country>
+				</address>
+				<type>Instituto Técnico Comercial</type>
+			</organisation>
+			<level>
+				<label>70/100</label>
+			</level>
+			<educationalfield>
+				<label>Técnicas contables, comerciales e informáticas</label>
 			</educationalfield>
 		</education></educationlist>
 	<languagelist>
 		<language xsi:type="europass:mother">
 			<code>it</code>
-			<label>italiano</label>
-		</language>
+			<label>italiano</label></language>
 		<language xsi:type="europass:foreign">
 			<code>es</code>
 			<label>español / castellano</label>
@@ -564,9 +587,7 @@ Fundación Teatro Regio de Turín</skills>
 				<reading>c2</reading>
 				<spokeninteraction>c2</spokeninteraction>
 				<spokenproduction>c2</spokenproduction>
-				<writing>c2</writing>
-			</level>
-		</language>
+				<writing>c2</writing></level></language>
 		<language xsi:type="europass:foreign">
 			<code>en</code>
 			<label>inglés</label>
@@ -575,9 +596,7 @@ Fundación Teatro Regio de Turín</skills>
 				<reading>c1</reading>
 				<spokeninteraction>b2</spokeninteraction>
 				<spokenproduction>b2</spokenproduction>
-				<writing>c1</writing>
-			</level>
-		</language>
+				<writing>c1</writing></level></language>
 		<language xsi:type="europass:foreign">
 			<code>ca</code>
 			<label>catalán / valenciano</label>
@@ -586,10 +605,7 @@ Fundación Teatro Regio de Turín</skills>
 				<reading>c2</reading>
 				<spokeninteraction>b1</spokeninteraction>
 				<spokenproduction>b1</spokenproduction>
-				<writing>b1</writing>
-			</level>
-		</language>
-	</languagelist>
+				<writing>b1</writing></level></language></languagelist>
 	<skilllist>
 		<skill type="social">Gracias a mis experiencias laborales y de vida he desarrollado:
  - buenas capacidades relacionales (e.g. trabajo en equipo)
@@ -614,10 +630,8 @@ Fundación Teatro Regio de Turín</skills>
 		<skill type="artistic">- percusiones árabes a nivel intermedio</skill>
 		<skill type="other"></skill>
 		<structured-skill xsi:type="europass:driving">
-			<drivinglicence>B</drivinglicence>		</structured-skill>
-	</skilllist>
+			<drivinglicence>B</drivinglicence></structured-skill></skilllist>
 	<misclist>
 		<misc type="additional"></misc>
-		<misc type="annexes"></misc>
-	</misclist>
+		<misc type="annexes"></misc></misclist>
 </europass:learnerinfo>

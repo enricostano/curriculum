@@ -1,0 +1,677 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="http://europass.cedefop.europa.eu/xml/cv_it_IT.xsl" type="text/xsl"?>
+<europass:learnerinfo locale="it_IT" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:europass="http://europass.cedefop.europa.eu/Europass/V2.0" xsi:schemaLocation="http://europass.cedefop.europa.eu/Europass/V2.0 http://europass.cedefop.europa.eu/xml/EuropassSchema_V2.0.xsd">
+	<docinfo>
+		<issuedate>2012-07-25T15:25:20+02:00</issuedate>
+		<xsdversion>V2.0</xsdversion>
+		<comment>Automatically generated Europass CV</comment>
+	</docinfo>
+	<prefs>
+		<field before="step1.firstName" name="step1.lastName"></field>
+		<field keep="true" name="step1.addressInfo"></field>
+		<field keep="false" name="step1.telephone"></field>
+		<field keep="true" name="step1.mobile"></field>
+		<field keep="false" name="step1.fax"></field>
+		<field keep="true" name="step1.email"></field>
+		<field keep="true" name="step1.nationality"></field>
+		<field format="/text/long" keep="true" name="step1.birthDate"></field>
+		<field keep="true" name="step1.gender"></field>
+		<field keep="false" name="step1.photo"></field>
+		<field keep="false" name="step1.application.label"></field>
+		<field format="/text/long" name="step3List[2].period"></field>
+		<field format="/text/long" name="step3List[0].period"></field>
+		<field format="/text/long" name="step3List[6].period"></field>
+		<field format="/text/long" name="step3List[5].period"></field>
+		<field format="/text/long" name="step3List[4].period"></field>
+		<field format="/text/long" name="step3List[1].period"></field>
+		<field before="step4List" keep="true" name="step3List"></field>
+		<field keep="true" name="step3List[3].company.sector.label"></field>
+		<field keep="true" name="step3List[3].company.addressInfo"></field>
+		<field keep="true" name="step3List[3].company.name"></field>
+		<field keep="true" name="step3List[3].activities"></field>
+		<field keep="true" name="step3List[3].position.label"></field>
+		<field keep="true" name="step3List[2].company.sector.label"></field>
+		<field keep="true" name="step3List[2].company.addressInfo"></field>
+		<field keep="true" name="step3List[2].company.name"></field>
+		<field keep="true" name="step3List[2].activities"></field>
+		<field keep="true" name="step3List[2].position.label"></field>
+		<field keep="true" name="step3List[0].company.sector.label"></field>
+		<field keep="true" name="step3List[0].company.addressInfo"></field>
+		<field keep="true" name="step3List[0].company.name"></field>
+		<field keep="true" name="step3List[0].activities"></field>
+		<field keep="true" name="step3List[0].position.label"></field>
+		<field keep="true" name="step3List[7].company.sector.label"></field>
+		<field keep="true" name="step3List[7].company.addressInfo"></field>
+		<field keep="true" name="step3List[7].company.name"></field>
+		<field keep="true" name="step3List[7].activities"></field>
+		<field keep="true" name="step3List[7].position.label"></field>
+		<field keep="true" name="step3List[6].company.sector.label"></field>
+		<field keep="true" name="step3List[6].company.addressInfo"></field>
+		<field keep="true" name="step3List[6].company.name"></field>
+		<field keep="true" name="step3List[6].activities"></field>
+		<field keep="true" name="step3List[6].position.label"></field>
+		<field keep="true" name="step3List[5].company.sector.label"></field>
+		<field keep="true" name="step3List[5].company.addressInfo"></field>
+		<field keep="true" name="step3List[5].company.name"></field>
+		<field keep="true" name="step3List[5].activities"></field>
+		<field keep="true" name="step3List[5].position.label"></field>
+		<field keep="true" name="step3List[4].company.sector.label"></field>
+		<field keep="true" name="step3List[4].company.addressInfo"></field>
+		<field keep="true" name="step3List[4].company.name"></field>
+		<field keep="true" name="step3List[4].activities"></field>
+		<field keep="true" name="step3List[4].position.label"></field>
+		<field keep="true" name="step3List[1].company.sector.label"></field>
+		<field keep="true" name="step3List[1].company.addressInfo"></field>
+		<field keep="true" name="step3List[1].company.name"></field>
+		<field keep="true" name="step3List[1].activities"></field>
+		<field keep="true" name="step3List[1].position.label"></field>
+		<field format="/text/long" name="step4List[2].period"></field>
+		<field format="/text/long" name="step4List[1].period"></field>
+		<field format="/text/long" name="step4List[3].period"></field>
+		<field format="/text/long" name="step4List[4].period"></field>
+		<field format="" name="step4List[6].period"></field>
+		<field keep="true" name="step4List"></field>
+		<field keep="false" name="step4List[1].level.label"></field>
+		<field keep="true" name="step4List[1].educationalOrg.addressInfo"></field>
+		<field keep="true" name="step4List[1].educationalOrg.name"></field>
+		<field keep="true" name="step4List[1].skills"></field>
+		<field keep="true" name="step4List[1].title"></field>
+		<field keep="true" name="step4List[0].level.label"></field>
+		<field keep="true" name="step4List[0].educationalOrg.addressInfo"></field>
+		<field keep="true" name="step4List[0].educationalOrg.name"></field>
+		<field keep="true" name="step4List[0].skills"></field>
+		<field keep="true" name="step4List[0].title"></field>
+		<field keep="true" name="step4List[2].level.label"></field>
+		<field keep="true" name="step4List[2].educationalOrg.addressInfo"></field>
+		<field keep="true" name="step4List[2].educationalOrg.name"></field>
+		<field keep="true" name="step4List[2].skills"></field>
+		<field keep="true" name="step4List[2].title"></field>
+		<field keep="true" name="step4List[5].level.label"></field>
+		<field keep="true" name="step4List[5].educationalOrg.addressInfo"></field>
+		<field keep="true" name="step4List[5].educationalOrg.name"></field>
+		<field keep="true" name="step4List[5].skills"></field>
+		<field keep="true" name="step4List[5].title"></field>
+		<field keep="false" name="step4List[3].level.label"></field>
+		<field keep="true" name="step4List[3].educationalOrg.addressInfo"></field>
+		<field keep="true" name="step4List[3].educationalOrg.name"></field>
+		<field keep="true" name="step4List[3].skills"></field>
+		<field keep="true" name="step4List[3].title"></field>
+		<field keep="false" name="step4List[4].level.label"></field>
+		<field keep="true" name="step4List[4].educationalOrg.addressInfo"></field>
+		<field keep="true" name="step4List[4].educationalOrg.name"></field>
+		<field keep="true" name="step4List[4].skills"></field>
+		<field keep="true" name="step4List[4].title"></field>
+		<field keep="true" name="step4List[6].level.label"></field>
+		<field keep="true" name="step4List[6].educationalOrg.addressInfo"></field>
+		<field keep="true" name="step4List[6].educationalOrg.name"></field>
+		<field keep="true" name="step4List[6].skills"></field>
+		<field keep="true" name="step4List[6].title"></field>
+		<field keep="true" name="step5.motherLanguages"></field>
+		<field keep="true" name="step5.foreignLanguageList"></field>
+		<field keep="true" name="step5.foreignLanguageList[2]"></field>
+		<field keep="true" name="step5.foreignLanguageList[1]"></field>
+		<field keep="true" name="step5.foreignLanguageList[0]"></field>
+		<field keep="true" name="step6.socialSkills"></field>
+		<field keep="true" name="step6.organisationalSkills"></field>
+		<field keep="false" name="step6.technicalSkills"></field>
+		<field keep="true" name="step6.computerSkills"></field>
+		<field keep="true" name="step6.artisticSkills"></field>
+		<field keep="false" name="step6.otherSkills"></field>
+		<field keep="true" name="step6.drivingLicences"></field>
+		<field keep="false" name="step7.additionalInfo"></field>
+		<field keep="false" name="step7.annexes"></field>
+		<field keep="false" name="grid"></field>
+	</prefs>
+	<identification>
+		<firstname>Enrico</firstname>
+		<lastname>Stano</lastname>
+		<contactinfo>
+			<address>
+				<addressLine>c/ Roger de Flor, 297 5º 4ª</addressLine>
+				<municipality>Barcellona</municipality>
+				<postalCode>08025</postalCode>
+				<country>
+					<code>ES</code>
+					<label>Spagna</label>
+				</country>
+			</address>
+			<telephone></telephone>
+			<fax></fax>
+			<mobile>+34675465104</mobile>
+			<email>enricostn@gmail.com</email>
+		</contactinfo>
+		<demographics>
+			<birthdate>1979-06-03</birthdate>
+			<gender>M</gender>
+			<nationality>
+				<code>IT</code>
+				<label>Italiana</label>
+			</nationality>
+		</demographics>
+	</identification>
+	<application>
+		<label></label>
+	</application>
+	<workexperiencelist>
+		<workexperience>
+			<period>
+				<from>
+					<year>2011</year>
+					<month>--09</month>
+					<day>---01</day>
+				</from>
+				<to>				</to>
+			</period>
+			<position>
+				<label>Analista e sviluppatore sistema informativo e di comunicazione</label>
+			</position>
+			<activities>1. Analisi e sviluppo della piattaforma web di comunicazione e sistema informativo Riaipe3.net
+2. Sviluppo e messa in produzione della piattaforma Riaipe3.net
+3. Manutenzione e aggiornamento della piattaforma Riaipe3.net
+4. Supporto tecnico agli utenti</activities>
+			<employer>
+				<name>Programa Marco Interuniversitario para la Equidad y la Cohesión Social de las Instituciones de Educación Superior / Universitat de Barcelona</name>
+				<address>
+					<addressLine>Pg. de la Vall d'Hebrón, 171</addressLine>
+					<municipality>Barcellona</municipality>
+					<postalCode></postalCode>
+					<country>
+						<code>ES</code>
+						<label>Spagna</label>
+					</country>
+				</address>
+				<sector>
+					<code>P</code>
+					<label>Istruzione</label>
+				</sector>
+			</employer>
+		</workexperience>
+		<workexperience>
+			<period>
+				<from>
+					<year>2011</year>
+					<month>--09</month>
+					<day>---01</day>
+				</from>
+				<to>
+					<year>2012</year>
+					<month>--08</month>
+					<day>---31</day>
+				</to>
+			</period>
+			<position>
+				<label>Borsista in collaborazione a progetto di ricerca</label>
+			</position>
+			<activities>1. Supporto logistico, amministrativo e accademico al progetto Open Project for Mobile Learning (RecerCaixa)
+2. Supporto logistico, tecnico e amministrativo al Gruppo di Recerca LMI</activities>
+			<employer>
+				<name>Laboratori de Mitjans Interactius LMI - Universitat de Barcelona</name>
+				<address>
+					<addressLine>Pg. de la Vall d'Hebrón, 171</addressLine>
+					<municipality>Barcellona</municipality>
+					<postalCode></postalCode>
+					<country>
+						<code>ES</code>
+						<label>Spagna</label>
+					</country>
+				</address>
+				<sector>
+					<code>P</code>
+					<label>Istruzione</label>
+				</sector>
+			</employer>
+		</workexperience>
+		<workexperience>
+			<period>
+				<from>
+					<year>2011</year>
+					<month>--04</month>
+					<day>---26</day>
+				</from>
+				<to>
+					<year>2011</year>
+					<month>--04</month>
+					<day>---27</day>
+				</to>
+			</period>
+			<position>
+				<label>Organizzatore</label>
+			</position>
+			<activities>Organizazzione e supporto logistico della giornata "Arte come mezzo di trasformazione sociale"</activities>
+			<employer>
+				<name>Facultat de Pedagogia / Universitat de Barcelona</name>
+				<address>
+					<addressLine>Pg. de la Vall d'Hebrón, 171</addressLine>
+					<municipality>Barcellona</municipality>
+					<postalCode></postalCode>
+					<country>
+						<code>ES</code>
+						<label>Spagna</label>
+					</country>
+				</address>
+				<sector>
+					<code>P</code>
+					<label>Istruzione</label>
+				</sector>
+			</employer>
+		</workexperience>
+		<workexperience>
+			<period>
+				<from>
+					<year>2011</year>
+					<month>--02</month>
+					<day>---01</day>
+				</from>
+				<to>
+					<year>2011</year>
+					<month>--09</month>
+					<day>---30</day>
+				</to>
+			</period>
+			<position>
+				<label>Sviluppatore e analista dati di ricerca</label>
+			</position>
+			<activities>1. Preparazione e pulizia dati attraverso processi di Data Cleansing (PHP, Python)
+2. Analisi statistica dei dati (analisi reti sociali) con UCINET
+3. I dati elaborati sono stati raccolti nell'ambito del progetto "Ciudadanía intercultural: la mejora de la convivencia intercultural de jóvenes de 14 a 16 años del municipio de Sant Boi de Llobregat" finanziato dal Ministero della Scienza e Tecnologia, Spagna (2008-2011)</activities>
+			<employer>
+				<name>GREDI / Dipartimento Metodi di Ricerca e Diagnostico in Educazione / Universitat de Barcelona</name>
+				<address>
+					<addressLine></addressLine>
+					<municipality>Barcellona</municipality>
+					<postalCode></postalCode>
+					<country>
+						<code>ES</code>
+						<label>Spagna</label>
+					</country>
+				</address>
+				<sector>
+					<code>P</code>
+					<label>Istruzione</label>
+				</sector>
+			</employer>
+		</workexperience>
+		<workexperience>
+			<period>
+				<from>
+					<year>2010</year>
+					<month>--03</month>
+					<day>---01</day>
+				</from>
+				<to>
+					<year>2010</year>
+					<month>--06</month>
+					<day>---30</day>
+				</to></period>
+			<position>
+				<label>Coordinamento del progetto di dinamizazzione socio-culturale</label></position>
+			<activities>Analisi del territorio e redazione del progetto di partecipazione degli enti associativi locali nella gestione della struttura culturale Livello UndiciOttavi</activities>
+			<employer>
+				<name>11/8 Records s.a.s.</name>
+				<address>
+					<addressLine>Corte dei mesagnesi, 31</addressLine>
+					<municipality>Lecce</municipality>
+					<postalCode></postalCode>
+					<country>
+						<code>IT</code>
+						<label>Italia</label></country></address>
+				<sector>
+					<code>R</code>
+					<label>Attivita' artistiche, di intrattenimento e divertimento</label></sector></employer></workexperience>
+		<workexperience>
+			<period>
+				<from>
+					<year>2007</year>
+					<month>--07</month>
+					<day>---16</day>
+				</from>
+				<to>
+					<year>2008</year>
+					<month>--08</month>
+					<day>---31</day>
+				</to></period>
+			<position>
+				<label>Analista di sistemi informativi e coordinatore editoriale</label></position>
+			<activities>1. Sviluppo di tecniche di gestione del materiale informativo relativo ai Rapporti Annuali
+2. Analisi funzionale per lo sviluppo della nuova base dati dell'impresa
+3. Ricerca e selezione di materiale informativo per la redazione e lo sviluppo editoriale dei Rapporti Annuali
+4. Sviluppo della base dati di operatori del settore delle Belle Arti e dell'Architettura
+5. Supporto al processo di redazione e impaginazione dei Rapporti Annuali</activities>
+			<employer>
+				<name>Laboratorio de Economia de Bellas Artes y de Arquitectura, Umberto Allemandi &amp; C. S.p.A.</name>
+				<address>
+					<addressLine>via mancini, 8</addressLine>
+					<municipality>Torino</municipality>
+					<postalCode></postalCode>
+					<country>
+						<code>IT</code>
+						<label>Italia</label></country></address>
+				<sector>
+					<label>Editoria</label></sector></employer></workexperience>
+		<workexperience>
+			<period>
+				<from>
+					<year>2005</year>
+					<month>--01</month>
+					<day>---01</day>
+				</from>
+				<to>
+					<year>2007</year>
+					<month>--03</month>
+					<day>---31</day>
+				</to></period>
+			<position>
+				<label>Sistemi informativi e supporto commerciale</label></position>
+			<activities>1. Messa in produzione del software di CRM (Customer Relationship Management) per il tracking dei contatti commerciali
+2. Sviluppo e gestione della base dati di magazzino e di produzione e del sistema informativo intranet aziendale
+3. Customer care e supporto allo sviluppo delle politiche commerciali
+4. Organizazzione della comunicazione aziendale</activities>
+			<employer>
+				<name>Seac02 s.r.l.</name>
+				<address>
+					<addressLine>via avogadro, 4</addressLine>
+					<municipality>Torino</municipality>
+					<postalCode></postalCode>
+					<country>
+						<code>IT</code>
+						<label>Italia</label></country></address>
+				<sector>
+					<label>Sviluppo software per realtà virtuale e aumentata</label></sector></employer></workexperience>
+		<workexperience>
+			<period>
+				<from>
+					<year>2001</year>
+					<month>--01</month>
+					<day>---01</day>
+				</from>
+				<to>
+					<year>2004</year>
+					<month>--12</month>
+					<day>---31</day>
+				</to></period>
+			<position>
+				<label>Responsabile commerciale e tecnico</label></position>
+			<activities>1. Studio e realizazzione delle politiche commerciali
+2. Gestione commerciale e tecnica del parco clienti
+3. Attività di supporto all'amministrazione</activities>
+			<employer>
+				<name>Stano s.a.s. di Stano Rita &amp; C.</name>
+				<address>
+					<addressLine>via Giovanni Falcone, pal A</addressLine>
+					<municipality>Manduria (TA)</municipality>
+					<postalCode>74024</postalCode>
+					<country>
+						<code>IT</code>
+						<label>Italia</label></country></address>
+				<sector>
+					<label>Commercio e servizi</label></sector></employer></workexperience></workexperiencelist>
+	<educationlist>
+		<education>
+			<period>
+				<from>
+					<year>2011</year>
+					<month>--09</month>
+					<day>---01</day>
+				</from>
+				<to>				</to></period>
+			<title>Master in Insegnamento e Apprendimento in Ambienti Digitali (60 ECTS)</title>
+			<skills>1. Progettazione pedagogica applicata all'educazione in rete
+2. Produzione di contenuti digitali
+3. Teorie dell'apprendimento in ambienti virtuali</skills>
+			<organisation>
+				<name>Universitat de Barcelona</name>
+				<address>
+					<addressLine></addressLine>
+					<municipality>Barcellona</municipality>
+					<postalCode></postalCode>
+					<country>
+						<code>ES</code>
+						<label>Spagna</label></country></address>
+				<type>Universidad</type></organisation>
+			<level>
+				<label>in corso</label></level>
+			<educationalfield>
+				<label>Tecnologie educative</label></educationalfield></education>
+		<education>
+			<period>
+				<from>
+					<year>2011</year>
+					<month>--09</month>
+					<day>---21</day>
+				</from>
+				<to>
+					<year>2011</year>
+					<month>--09</month>
+					<day>---23</day>
+				</to>
+			</period>
+			<title>XV Congresso Nazionale e I Internazionale di Modelli di Ricerca Educativa, "Ricerca ed educazione in un mondo in rete"</title>
+			<skills>Assistenza al congresso e presentazione della Comunicazione "Multiculturalità, lingua e coesione sociale in tre scuole medie di Sant Boi de Llobregat: Analisi di reti sociali"</skills>
+			<organisation>
+				<name>AIDIPE / UNED</name>
+				<address>
+					<addressLine></addressLine>
+					<municipality>Madrid</municipality>
+					<postalCode></postalCode>
+					<country>
+						<code>ES</code>
+						<label>Spagna</label>
+					</country>
+				</address>
+				<type>Congresso internazionale</type>
+			</organisation>
+			<level>
+				<label></label>
+			</level>
+			<educationalfield>
+				<label>Tecnologia educativa e metodi di ricerca</label>
+			</educationalfield>
+		</education>
+		<education>
+			<period>
+				<from>
+					<year>2008</year>
+					<month>--09</month>
+					<day>---01</day>
+				</from>
+				<to>
+					<year>2010</year>
+					<month>--07</month>
+					<day>---31</day>
+				</to></period>
+			<title>Master in Gestione Culturale (90 ECTS)</title>
+			<skills>1. Gestione culturale
+2. Partecipazione e animazione socio-culturale
+3. Economia della cultura</skills>
+			<organisation>
+				<name>Universitat de Barcelona</name>
+				<address>
+					<addressLine></addressLine>
+					<municipality>Barcellona</municipality>
+					<postalCode></postalCode>
+					<country>
+						<code>ES</code>
+						<label>Spagna</label></country></address>
+				<type>Università</type></organisation>
+			<level>
+				<label>9/10</label></level>
+			<educationalfield>
+				<label>Gestione culturale</label></educationalfield></education>
+		<education>
+			<period>
+				<from>
+					<year>2008</year>
+					<month>--10</month>
+					<day>---01</day>
+				</from>
+				<to>
+					<year>2008</year>
+					<month>--10</month>
+					<day>---31</day>
+				</to></period>
+			<title>Corso SAP General</title>
+			<skills>SAP General</skills>
+			<organisation>
+				<name>Università degli Studi di Torino</name>
+				<address>
+					<addressLine></addressLine>
+					<municipality>Torino</municipality>
+					<postalCode></postalCode>
+					<country>
+						<code>IT</code>
+						<label>Italia</label></country></address>
+				<type>Università</type></organisation>
+			<level>
+				<label></label></level>
+			<educationalfield>
+				<label>Informatica applicata all'impresa</label></educationalfield></education>
+		<education>
+			<period>
+				<from>
+					<year>2007</year>
+					<month>--06</month>
+					<day>---01</day>
+				</from>
+				<to>
+					<year>2007</year>
+					<month>--06</month>
+					<day>---30</day>
+				</to></period>
+			<title>Seminario universitario in gestione delle Fondazioni Liriche</title>
+			<skills>Bilancio e gestione delle Fondazioni Liriche</skills>
+			<organisation>
+				<name>Università degli Studi di Torino / Fondazione Teatro Regio di Torino</name>
+				<address>
+					<addressLine></addressLine>
+					<municipality>Torino</municipality>
+					<postalCode></postalCode>
+					<country>
+						<code>IT</code>
+						<label>Italia</label></country></address>
+				<type>Università</type></organisation>
+			<level>
+				<label></label></level>
+			<educationalfield>
+				<label>Gestione culturale</label></educationalfield></education>
+		<education>
+			<period>
+				<from>
+					<year>2004</year>
+				</from>
+				<to>
+					<year>2008</year>
+				</to></period>
+			<title>Laurea triennale in Economia Aziendale / Sistemi informativi aziendali (180 ECTS)</title>
+			<skills>1. Sistemi informativi aziendali
+2. Statistica
+3. Economia della cultura</skills>
+			<organisation>
+				<name>Università degli Studi di Torino</name>
+				<address>
+					<addressLine></addressLine>
+					<municipality>Torino</municipality>
+					<postalCode></postalCode>
+					<country>
+						<code>IT</code>
+						<label>Italia</label></country></address>
+				<type>Università</type></organisation>
+			<level>
+				<label>96/110</label></level>
+			<educationalfield>
+				<label>Direzione e amministrazione di imprese</label></educationalfield></education>
+		<education>
+			<period>
+				<from>
+					<year>1993</year>
+				</from>
+				<to>
+					<year>1999</year>
+				</to></period>
+			<title>Contabile Programmatore</title>
+			<skills>Contabilità
+Informatica per la gestione</skills>
+			<organisation>
+				<name>Istituto Tecnico Commerciale "Giovanni Calò"</name>
+				<address>
+					<addressLine></addressLine>
+					<municipality>Francavilla Fontana (BR)</municipality>
+					<postalCode></postalCode>
+					<country>
+						<code>IT</code>
+						<label>Italia</label></country></address>
+				<type>Istituto Tecnico Commerciale</type></organisation>
+			<level>
+				<label>70/100</label></level>
+			<educationalfield>
+				<label>Tecniche contabili, commerciali e informatiche</label></educationalfield></education>
+	</educationlist>
+	<languagelist>
+		<language xsi:type="europass:mother">
+			<code>it</code>
+			<label>Italiano</label>
+		</language>
+		<language xsi:type="europass:foreign">
+			<code>es</code>
+			<label>Spagnolo / Castigliano</label>
+			<level>
+				<listening>c2</listening>
+				<reading>c2</reading>
+				<spokeninteraction>c2</spokeninteraction>
+				<spokenproduction>c2</spokenproduction>
+				<writing>c2</writing>
+			</level>
+		</language>
+		<language xsi:type="europass:foreign">
+			<code>en</code>
+			<label>Inglese</label>
+			<level>
+				<listening>b2</listening>
+				<reading>c1</reading>
+				<spokeninteraction>b2</spokeninteraction>
+				<spokenproduction>b2</spokenproduction>
+				<writing>c1</writing>
+			</level>
+		</language>
+		<language xsi:type="europass:foreign">
+			<code>ca</code>
+			<label>Catalano / Valenciano</label>
+			<level>
+				<listening>c2</listening>
+				<reading>c2</reading>
+				<spokeninteraction>b1</spokeninteraction>
+				<spokenproduction>b1</spokenproduction>
+				<writing>b1</writing>
+			</level>
+		</language>
+	</languagelist>
+	<skilllist>
+		<skill type="social">Grazie alle mie esperienze lavorative e di vita ho sviluppato:
+ - buone capacità relazionali (e.g. lavoro in gruppo, etc.)
+ - attitudine positiva e comprensione delle caratterisitche delle persone con le quali lavoro
+ - capacità di confronto e collaborazione con persone con profili culturali, sociali e professionali differenti fra loro</skill>
+		<skill type="organisational">- capacità di analisi
+- coordinazione di lavoro in gruppo
+- sviluppo e gestione di progetti
+- attitudine positiva in situazioni lavorative stressanti (scadenze inderogabili, etc.)
+- capacità di mappatura delle risorse e dei flussi informativi per ottimizzare il lavoro e i risultati</skill>
+		<skill type="technical"></skill>
+		<skill type="computer">- linguaggi di programmazione: PHP, Python, Ruby
+- linguaggi di markup: HTML, CSS, XML, YAML
+- dominio di ambienti Linux, MS Windows, Mac
+- architetture DB: SQL/MySql
+- architetture CMS: Drupal, Wordpress, Joomla, OpenAtrium
+- framework sviluppo web: Ruby on Rails
+- analisi mappe concettuali: CmapTools (ihmc)
+- Office Automation: European Computer Driving Licence (ECDL) Full (Università di Torino)
+- software di gestione aziendale e ERP: eBridge (9 corsi specialistici) piú esperienza di lavoro
+- conoscenza profonda dei software di impaginazione digitale e di elaborazione delle immagini: Quark Xpress, The Gimp, Adobe Photoshop</skill>
+		<skill type="artistic">- percussioni arabe, livello intermedio</skill>
+		<skill type="other"></skill>
+		<structured-skill xsi:type="europass:driving">
+			<drivinglicence>B</drivinglicence>		</structured-skill>
+	</skilllist>
+	<misclist>
+		<misc type="additional"></misc>
+		<misc type="annexes"></misc>
+	</misclist>
+</europass:learnerinfo>
